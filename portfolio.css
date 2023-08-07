@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+  }
+  header{
+    padding: 30px;
+    background-color: rgb(102, 188, 245);
+  }
+  li {
+    display:inline;
+    padding:75px;
+    color:black
+    
+  }
+  
+  .center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+    width: 100px;
+  }
+  p{
+    text-align: center;
+    color: black;
+  }
+  #skills{
+    display:inline;
+  }
+  footer{
+    text-align: center;
+  }
+.list1{
+    display: -moz-inline-grid;
+    border-radius: 50px;
+    background-color: antiquewhite;
+
+}
+h3{
+    text-align: center;
+    color:black
+}
+  
+  
+  
